@@ -1,0 +1,9 @@
+{
+  "core": {
+    "sass": {
+      "public/assets/css/style.css": [
+        "sass/style.{scss,sass}"
+      ]
+    }
+  }
+}
