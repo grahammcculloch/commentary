@@ -1,0 +1,14 @@
+{
+  "name": "commentary",
+  "description": "Live commentary for your event!",
+  "version": "0.0.1",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grahammcculloch/commentary.git"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
